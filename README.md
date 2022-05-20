@@ -1,4 +1,4 @@
-# [Galleria](https://vitorpatzlaff-galleria.app)
+# [Galleria](https://vitorpatzlaff-galleria.netlify.app)
 ### English
 This app is just a little demonstration of some Sass features.
 ##### Project Language: English
